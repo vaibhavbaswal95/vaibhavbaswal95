@@ -1,86 +1,57 @@
-<div align="center">
+## Vaibhav Baswal
 
-# Hey, I'm Vaibhav 👋
+ML Engineer. I work at the intersection of **large language models**, **agentic systems**, and **quantitative finance**.
 
-### ML Engineer · AI Tools Builder · Quant Tinkerer
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/vaibhavbaswal95/personal-portfolio)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vaibhavbaswal)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vaibhav.baswal95@gmail.com)
-
-</div>
+Most of my work lately is about making LLMs composable and reliable in production — not just impressive in notebooks.
 
 ---
 
-### 🧠 What I Do
+**Current focus**
 
-I build things at the intersection of **AI, data, and systems** — from fine-tuning LLMs to writing trading bots. I care about making AI actually useful, not just impressive in demos.
-
-Currently focused on:
-- 🔧 Building **MCP servers** and AI tooling ([kite-mcp-server](https://github.com/vaibhavbaswal95/kite-mcp-server))
-- 📄 Working on **[arxivrush](https://github.com/vaibhavbaswal95/arxivrush)** — an arXiv research tool
-- 📈 Connecting **LLMs + quantitative finance**
+- Building [arxivrush](https://github.com/vaibhavbaswal95/arxivrush) — a tool for tracking and synthesizing research from arXiv  
+- Exploring LLM-native interfaces for financial data via [kite-mcp-server](https://github.com/vaibhavbaswal95/kite-mcp-server) (Model Context Protocol)  
+- Fine-tuning and inference optimization: LoRA, QLoRA, speculative decoding, quantization  
 
 ---
 
-### 🛠️ Tech Stack
+**Technical interests**
 
-**AI / ML**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-
-**Data & Infra**
-
-![Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-
-**Web & Tools**
-
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+```
+LLM fine-tuning & alignment       Agentic architectures & tool use
+Retrieval-augmented generation     Quantitative trading systems
+Time series with Transformers      Structured output extraction
+Vision-language models             ML systems & inference serving
+```
 
 ---
 
-### 🚀 Featured Projects
+**Selected work**
 
-| Project | What it does | Stack |
-|--------|--------------|-------|
-| [kite-mcp-server](https://github.com/vaibhavbaswal95/kite-mcp-server) | MCP server for Kite (Zerodha) trading API | MCP, Python |
-| [arxivrush](https://github.com/vaibhavbaswal95/arxivrush) | arXiv research discovery tool | Python, AI |
-| [personal-portfolio](https://github.com/vaibhavbaswal95/personal-portfolio) | Personal site | TypeScript, Next.js |
-| [object_replacement](https://github.com/vaibhavbaswal95/object_replacement) | Swap objects in images using segmentation | PyTorch, CV |
-| [dsa-problems](https://github.com/vaibhavbaswal95/dsa-problems) | Clean DSA solutions in Python | Python |
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-
-![Vaibhav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vaibhavbaswal95&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhavbaswal95&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
+| Repository | Description |
+|---|---|
+| [llm-finetuning-cookbook](https://github.com/vaibhavbaswal95/llm-finetuning-cookbook) | Practical LoRA / QLoRA fine-tuning recipes for Llama, Mistral, TinyLlama |
+| [rag-from-scratch](https://github.com/vaibhavbaswal95/rag-from-scratch) | RAG pipeline built bottom-up: chunking → embeddings → retrieval → generation |
+| [ai-agent-toolkit](https://github.com/vaibhavbaswal95/ai-agent-toolkit) | Multi-agent orchestration with LangGraph — memory, tools, streaming |
+| [time-series-transformers](https://github.com/vaibhavbaswal95/time-series-transformers) | PatchTST, TFT, and Chronos for multivariate forecasting |
+| [llm-trading-signals](https://github.com/vaibhavbaswal95/llm-trading-signals) | Structured signal extraction from financial news using LLMs |
+| [structured-outputs-demo](https://github.com/vaibhavbaswal95/structured-outputs-demo) | Typed, reliable LLM outputs with Pydantic + Instructor |
+| [embeddings-101](https://github.com/vaibhavbaswal95/embeddings-101) | Embeddings from first principles — search, clustering, anomaly detection |
+| [options-pricing-ml](https://github.com/vaibhavbaswal95/options-pricing-ml) | Neural options pricer benchmarked against Black-Scholes and Monte Carlo |
 
 ---
 
-### 📌 Currently Reading / Thinking About
+**Stack**
 
-- How agents with memory will change software workflows
-- Whether LLMs will make quant strategies crowded or just more creative
-- Making sense of the MCP ecosystem before it explodes
+Python · PyTorch · HuggingFace Transformers · PEFT · LangGraph · vLLM · ChromaDB · FastAPI · TypeScript
 
 ---
 
-<div align="center">
+**Thinking about**
 
-*"Build things. Break things. Understand why."*
+The next interesting problem isn't making LLMs smarter in isolation — it's making them reliable components in larger systems. Tool use, memory, and structured outputs are where most of the real engineering work lives right now.
 
-</div>
+Also: whether the MCP ecosystem will consolidate or fragment, and what that means for agent interoperability.
+
+---
+
+`vaibhav.baswal95@gmail.com` · [linkedin.com/in/vaibhavbaswal](https://linkedin.com/in/vaibhavbaswal)
