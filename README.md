@@ -1,16 +1,14 @@
 ## Vaibhav Baswal
 
-ML Engineer. I work at the intersection of **large language models**, **agentic systems**, and **quantitative finance**.
-
-Most of my work lately is about making LLMs composable and reliable in production — not just impressive in notebooks.
+ML Engineer. I work on **large language models**, **agentic systems**, and building AI tooling that's actually useful in production — not just impressive in notebooks.
 
 ---
 
 **Current focus**
 
 - Building [arxivrush](https://github.com/vaibhavbaswal95/arxivrush) — a tool for tracking and synthesizing research from arXiv  
-- Exploring LLM-native interfaces for financial data via [kite-mcp-server](https://github.com/vaibhavbaswal95/kite-mcp-server) (Model Context Protocol)  
-- Fine-tuning and inference optimization: LoRA, QLoRA, speculative decoding, quantization  
+- LLM-native tool interfaces via [kite-mcp-server](https://github.com/vaibhavbaswal95/kite-mcp-server) (Model Context Protocol)  
+- Fine-tuning and inference optimization: LoRA, QLoRA, quantization, speculative decoding  
 
 ---
 
@@ -18,9 +16,9 @@ Most of my work lately is about making LLMs composable and reliable in productio
 
 ```
 LLM fine-tuning & alignment       Agentic architectures & tool use
-Retrieval-augmented generation     Quantitative trading systems
-Time series with Transformers      Structured output extraction
+Retrieval-augmented generation     Structured output extraction
 Vision-language models             ML systems & inference serving
+Time series with Transformers      Embeddings & semantic search
 ```
 
 ---
@@ -33,10 +31,10 @@ Vision-language models             ML systems & inference serving
 | [rag-from-scratch](https://github.com/vaibhavbaswal95/rag-from-scratch) | RAG pipeline built bottom-up: chunking → embeddings → retrieval → generation |
 | [ai-agent-toolkit](https://github.com/vaibhavbaswal95/ai-agent-toolkit) | Multi-agent orchestration with LangGraph — memory, tools, streaming |
 | [time-series-transformers](https://github.com/vaibhavbaswal95/time-series-transformers) | PatchTST, TFT, and Chronos for multivariate forecasting |
-| [llm-trading-signals](https://github.com/vaibhavbaswal95/llm-trading-signals) | Structured signal extraction from financial news using LLMs |
 | [structured-outputs-demo](https://github.com/vaibhavbaswal95/structured-outputs-demo) | Typed, reliable LLM outputs with Pydantic + Instructor |
 | [embeddings-101](https://github.com/vaibhavbaswal95/embeddings-101) | Embeddings from first principles — search, clustering, anomaly detection |
-| [options-pricing-ml](https://github.com/vaibhavbaswal95/options-pricing-ml) | Neural options pricer benchmarked against Black-Scholes and Monte Carlo |
+| [stable-diffusion-workflows](https://github.com/vaibhavbaswal95/stable-diffusion-workflows) | SDXL text2img, img2img, ControlNet, and LoRA training pipelines |
+| [vision-language-demos](https://github.com/vaibhavbaswal95/vision-language-demos) | CLIP, LLaVA, GPT-4V for image understanding and document extraction |
 
 ---
 
