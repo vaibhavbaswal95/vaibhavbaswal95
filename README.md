@@ -1,58 +1,81 @@
-## Vaibhav Baswal
+<div align="center">
 
-ML Engineer with deep experience in **computer vision** and **NLP**. Currently focused on **large language models**, **agentic systems**, and building AI tooling that's actually useful in production — not just impressive in notebooks.
+# Vaibhav Baswal
 
----
+**ML Engineer · 8+ Years Industry Experience · IIT Graduate**
 
-**Current focus**
+*Building AI systems that work in production, not just in demos.*
 
-- Building [arxivrush](https://github.com/vaibhavbaswal95/arxivrush) — a tool for tracking and synthesizing research from arXiv  
-- LLM-native tool interfaces via [kite-mcp-server](https://github.com/vaibhavbaswal95/kite-mcp-server) (Model Context Protocol)  
-- Fine-tuning and inference optimization: LoRA, QLoRA, quantization, speculative decoding  
+[![Email](https://img.shields.io/badge/vaibhav.baswal95@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:vaibhav.baswal95@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/vaibhavbaswal)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://github.com/vaibhavbaswal95/personal-portfolio)
 
----
-
-**Technical interests**
-
-```
-LLM fine-tuning & alignment       Agentic architectures & tool use
-Retrieval-augmented generation     Structured output extraction
-Image segmentation & matting       Generative models (GANs, Diffusion)
-Vision-language models             ML systems & inference serving
-Time series with Transformers      Embeddings & semantic search
-```
+</div>
 
 ---
 
-**Selected work**
+### 👨‍💻 About
+
+ML Engineer with **8+ years** building production AI systems across computer vision, NLP, and large language models. IIT graduate with hands-on experience at scale — from processing millions of documents at **EXL** to powering ML-driven decisions at **Cars24**.
+
+My work spans the full spectrum: research → prototype → production. I care about the last mile — making models reliable, fast, and actually deployable.
+
+---
+
+### 🔬 Technical Expertise
+
+| Domain | What I've built |
+|--------|----------------|
+| 🤖 **LLMs & Fine-tuning** | LoRA/QLoRA pipelines, instruction tuning, inference optimization |
+| 🔍 **RAG & Retrieval** | End-to-end RAG systems, vector search, reranking |
+| 🧩 **Agentic Systems** | Multi-agent orchestration, tool use, memory, MCP servers |
+| 👁️ **Computer Vision** | Image segmentation, object replacement, GAN-based matting |
+| 📝 **NLP** | Text classification, NER, document understanding at scale |
+| 📊 **Time Series** | Transformer-based forecasting (PatchTST, TFT, Chronos) |
+| ⚙️ **ML Systems** | Model serving, quantization, inference benchmarking |
+
+---
+
+### 🚀 Selected Projects
 
 | Repository | Description |
 |---|---|
-| [llm-finetuning-cookbook](https://github.com/vaibhavbaswal95/llm-finetuning-cookbook) | Practical LoRA / QLoRA fine-tuning recipes for Llama, Mistral, TinyLlama |
-| [rag-from-scratch](https://github.com/vaibhavbaswal95/rag-from-scratch) | RAG pipeline built bottom-up: chunking → embeddings → retrieval → generation |
-| [ai-agent-toolkit](https://github.com/vaibhavbaswal95/ai-agent-toolkit) | Multi-agent orchestration with LangGraph — memory, tools, streaming |
-| [time-series-transformers](https://github.com/vaibhavbaswal95/time-series-transformers) | PatchTST, TFT, and Chronos for multivariate forecasting |
-| [structured-outputs-demo](https://github.com/vaibhavbaswal95/structured-outputs-demo) | Typed, reliable LLM outputs with Pydantic + Instructor |
-| [embeddings-101](https://github.com/vaibhavbaswal95/embeddings-101) | Embeddings from first principles — search, clustering, anomaly detection |
-| [stable-diffusion-workflows](https://github.com/vaibhavbaswal95/stable-diffusion-workflows) | SDXL text2img, img2img, ControlNet, and LoRA training pipelines |
-| [vision-language-demos](https://github.com/vaibhavbaswal95/vision-language-demos) | CLIP, LLaVA, GPT-4V for image understanding and document extraction |
-| [object_replacement](https://github.com/vaibhavbaswal95/object_replacement) | Segmentation-based object replacement in images using PyTorch |
-| [unet-gan-matting](https://github.com/vaibhavbaswal95/unet-gan-matting) | Image matting with UNet + GAN — background removal without green screen |
+| 🍳 [llm-finetuning-cookbook](https://github.com/vaibhavbaswal95/llm-finetuning-cookbook) | LoRA / QLoRA fine-tuning recipes for Llama, Mistral, TinyLlama |
+| 🔍 [rag-from-scratch](https://github.com/vaibhavbaswal95/rag-from-scratch) | RAG pipeline from first principles: chunking → embeddings → generation |
+| 🤖 [ai-agent-toolkit](https://github.com/vaibhavbaswal95/ai-agent-toolkit) | Multi-agent systems with LangGraph — memory, tools, streaming |
+| 📊 [time-series-transformers](https://github.com/vaibhavbaswal95/time-series-transformers) | PatchTST, TFT, and Chronos for multivariate forecasting |
+| 👁️ [unet-gan-matting](https://github.com/vaibhavbaswal95/unet-gan-matting) | Image matting with UNet + GAN — no green screen needed |
+| 🖼️ [object_replacement](https://github.com/vaibhavbaswal95/object_replacement) | Segmentation-based object replacement in images |
+| 🧮 [embeddings-101](https://github.com/vaibhavbaswal95/embeddings-101) | Embeddings from first principles — search, clustering, anomaly detection |
+| 📐 [structured-outputs-demo](https://github.com/vaibhavbaswal95/structured-outputs-demo) | Typed, reliable LLM outputs with Pydantic + Instructor |
+| 🔌 [kite-mcp-server](https://github.com/vaibhavbaswal95/kite-mcp-server) | MCP server exposing Kite (Zerodha) trading API to LLM agents |
+| 📄 [arxivrush](https://github.com/vaibhavbaswal95/arxivrush) | arXiv research discovery and synthesis tool |
 
 ---
 
-**Stack**
+### 🛠️ Stack
 
-Python · PyTorch · HuggingFace Transformers · PEFT · LangGraph · vLLM · ChromaDB · FastAPI · TypeScript
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/🤗_Transformers-FFD21E?style=flat-square)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
 
 ---
 
-**Thinking about**
+### 💭 Currently thinking about
 
-The next interesting problem isn't making LLMs smarter in isolation — it's making them reliable components in larger systems. Tool use, memory, and structured outputs are where most of the real engineering work lives right now.
+The next interesting problem isn't making LLMs smarter in isolation — it's making them **reliable components in larger systems**. Tool use, memory, and structured outputs are where most of the real engineering work lives right now.
 
-Also: whether the MCP ecosystem will consolidate or fragment, and what that means for agent interoperability.
+Also watching the MCP ecosystem closely — agent interoperability is going to matter a lot in the next 12 months.
 
 ---
 
-`vaibhav.baswal95@gmail.com` · [linkedin.com/in/vaibhavbaswal](https://linkedin.com/in/vaibhavbaswal)
+<div align="center">
+
+*"The best model is the one that ships."*
+
+</div>
