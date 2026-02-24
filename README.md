@@ -1,6 +1,6 @@
 ## Vaibhav Baswal
 
-ML Engineer. I work on **large language models**, **agentic systems**, and building AI tooling that's actually useful in production — not just impressive in notebooks.
+ML Engineer with deep experience in **computer vision** and **NLP**. Currently focused on **large language models**, **agentic systems**, and building AI tooling that's actually useful in production — not just impressive in notebooks.
 
 ---
 
@@ -17,6 +17,7 @@ ML Engineer. I work on **large language models**, **agentic systems**, and build
 ```
 LLM fine-tuning & alignment       Agentic architectures & tool use
 Retrieval-augmented generation     Structured output extraction
+Image segmentation & matting       Generative models (GANs, Diffusion)
 Vision-language models             ML systems & inference serving
 Time series with Transformers      Embeddings & semantic search
 ```
@@ -35,6 +36,8 @@ Time series with Transformers      Embeddings & semantic search
 | [embeddings-101](https://github.com/vaibhavbaswal95/embeddings-101) | Embeddings from first principles — search, clustering, anomaly detection |
 | [stable-diffusion-workflows](https://github.com/vaibhavbaswal95/stable-diffusion-workflows) | SDXL text2img, img2img, ControlNet, and LoRA training pipelines |
 | [vision-language-demos](https://github.com/vaibhavbaswal95/vision-language-demos) | CLIP, LLaVA, GPT-4V for image understanding and document extraction |
+| [object_replacement](https://github.com/vaibhavbaswal95/object_replacement) | Segmentation-based object replacement in images using PyTorch |
+| [unet-gan-matting](https://github.com/vaibhavbaswal95/unet-gan-matting) | Image matting with UNet + GAN — background removal without green screen |
 
 ---
 
